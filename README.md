@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/128889028?v=4" weight="140px" align="right"></img>
+<img src="https://avatars.githubusercontent.com/u/128889028?v=4" width="140" align="right"></img>
 # Welcome to my homepage！
 - 👋 Hi, I’m @c1fish，a student toward a web developer. 
 - 👀 I’m interested in music and illustrations.
